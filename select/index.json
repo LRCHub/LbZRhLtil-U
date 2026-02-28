@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パステル・ドレスアップ（feat. 初音ミク、小春六花、初音ミク&小春六花）",
+  "base_artist": "irucaice、Tanchiky",
+  "createdAt": "2026-02-28T07:15:31.658500Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パステル・ドレスアップ (feat. 初音ミク&小春六花)",
+      "artist": "irucaice、Tanchiky",
+      "has_synced": false,
+      "path": "select/pl_01_パステル・ドレスアップ_(feat._初音ミク&小春六花)_irucaice、Tanchiky.txt"
+    }
+  ]
+}
